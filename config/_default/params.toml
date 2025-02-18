@@ -1,5 +1,5 @@
-colorScheme = "terminal"
-defaultAppearance = "light"
+colorScheme = "neon"
+defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
@@ -12,7 +12,7 @@ defaultBackgroundImage = "bg-image.jpg"
 defaultFeaturedImage = "bg-image.jpg"
 
 [header]
-layout = "basic"
+layout = "fixed"
 
 [footer]
 showMenu = true
@@ -22,7 +22,7 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "profile"
+layout = "background"
 showRecent = "showRecent"
 showRecentItems = 5
 showMoreLink = false
@@ -36,11 +36,11 @@ homepageImage = "bg-image.jpg"
 showDate = true
 showViews = false
 showLikes = false
-showDateOnlyInArticle = false
+showDateOnlyInArticle = true
 showDateUpdated = false
 showAuthor = false
 showHero = false
-layoutBackgroundBlur = true
+layoutBackgroundBlur = false
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
 showDraftLabel = true
@@ -59,7 +59,7 @@ showZenMode = true
 
 [list]
 showHero = false
-layoutBackgroundBlur = true
+layoutBackgroundBlur = false
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
 showSummary = false
