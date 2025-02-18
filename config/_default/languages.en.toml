@@ -9,6 +9,6 @@ displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
-logo = "desktop"
+logo = "abegail-logo.png"
 author = { name = "Abegail Santos", image = "abby_bnw.jpg" }
-
+secondaryLogo = "abegail-logo.png"
